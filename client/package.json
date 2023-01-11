@@ -1,5 +1,6 @@
 {
     "name": "client",
+    "production": "true",
     "scripts": {
       "dev": "webpack-dev-server",
       "build": "webpack --mode production",
@@ -25,12 +26,8 @@
     },
     "dependencies": {
       "code-mirror-themes": "^1.0.0",
+    
       "idb": "^6.1.2"
     }
-  }, 
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-
-
+  }
   
