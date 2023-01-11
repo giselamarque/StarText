@@ -10,7 +10,7 @@ This app uses webpack and idb
 
 The user can install once application is opened on chrome.
 
-#Issues/Future Iterations
+# Issues/Future Iterations
 
 <img width="649" alt="Screenshot 2023-01-11 at 2 28 05 PM" src="https://user-images.githubusercontent.com/110875368/211911874-93ad9560-8551-4a89-ad0b-9b17aaa9a2e9.png">
 
